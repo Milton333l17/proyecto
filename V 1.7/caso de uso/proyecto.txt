@@ -1,0 +1,30 @@
+RF01
+Inicio de Usuario administrado/empleado
+RF02
+Reporte de monetización en tiempo real
+RF03
+Código de caracterización del producto
+RF04
+Estampado del producto 
+RF05
+Inventariado
+RF06
+Garantía del producto
+RF07
+Información del producto
+RF08
+Historial de reportes para el administrador
+RF09
+Facturación
+RF10
+Datos de los proveedores
+RF11
+Notificación: Estado del stand
+RF12
+Buzón de sugerencias y quejas
+RF13
+Información del calendario en el inventario.
+RF14
+Reporte de productos antiguos o a punto de expirar para su respectivo descuento.
+RF15
+Control de productos defectuosos o expirados
