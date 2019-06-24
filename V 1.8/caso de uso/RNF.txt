@@ -1,0 +1,29 @@
+1Interfaz de las etiquetas generadas.
+
+2Eficiencia
+
+3Sistema de ayudas
+
+4Protección de información
+
+5Disponibilidad Laboral 
+
+6Tiempo de devolución
+
+7Id de la etiqueta 
+
+8Lista de precios
+
+9Sistema de medida 
+
+10Conteo del Inventario 
+
+11Seguridad de datos de la entidad 
+
+12Sistema operativo 
+
+13Interfaz 
+
+14Actualización de inventario
+
+15Categorías de productos 
